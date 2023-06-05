@@ -1,0 +1,2 @@
+# trymailchimp
+trying mailchimp api
